@@ -1,1 +1,1 @@
-print("hello young blood")
+print("nigga nigga nigga nigga")
